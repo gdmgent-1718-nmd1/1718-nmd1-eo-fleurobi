@@ -16,3 +16,31 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.concurrentie{
+    text-align: center;
+}
+
+table{
+    margin: 0 auto;
+}
+
+td{
+    width: 25%;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.pos{
+    background-color: green;
+    color: white;
+}
+
+.neg{
+    background-color: #D93500;
+    color: white;
+}
