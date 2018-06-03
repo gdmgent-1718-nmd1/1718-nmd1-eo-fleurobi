@@ -44,3 +44,138 @@ td{
     background-color: #D93500;
     color: white;
 }
+
+h1{
+    font-family: 'bebas neue', sans-serif;
+}
+
+body{
+    font-family: 'raleway', sans-serif;
+}
+
+/* style guide */
+.container{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.sub{
+    border-bottom: 2px dotted #688FDF
+
+    ;
+    padding: 30px 0;
+}
+.bold{
+    font-weight: bold;
+}
+.styleguide-title{
+    font-family: 'raleway' , sans-serif;
+}
+.insprong{
+    margin: 40px 0px 40px 30px;
+} 
+p{
+    width: 550px;
+}
+
+a{
+    color: #721e1e;
+    font-family: 'raleway', sans-serif;
+    text-decoration: none;
+    margin-right: 20px;
+}
+a:hover{
+    color: #EA8585; 
+}
+
+/*defining the fonts */
+.nav-title{
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    font-family: 'bebas neue' , sans-serif;
+    letter-spacing: 1px;
+}
+h3,
+p{
+    font-family: 'Raleway', sans-serif;
+}
+.selected{
+    color: #EA8585;
+}
+
+.oswald{
+    font-family: 'oswald' , sans-serif;
+}
+
+/* defining the colors */ 
+.color{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-right: 30px;
+    color: white;
+    font-family: helvetica;
+    padding: 10px;
+    border-radius: 2px;
+    box-shadow: 5px 10px 15px #888888;
+}
+
+.color1{
+    background-color: #ffffff;
+    color: black;
+    border: solid 1px;
+}
+.color2{
+    background-color: #000000;
+    
+}
+.color3{
+    background-color: #8c2727 ;
+}
+
+.color4{
+    background-color: #721e1e;
+}
+.color5{
+    background-color: #688fdf;
+}
+
+.color6{
+    background-color: #EA8585;
+}
+
+/* button styling */
+button{
+    letter-spacing: 5px;
+    font-size: 2em;
+    background-color: #688fdf;
+    color: #ffffff;
+    font-family: 'bebas neue', sans-serif;
+    text-align: center;
+    padding-top: 0.5%;
+    width: 20%;
+    transition: 0.5s;
+}
+
+button:hover{
+    background-color: #ffffff;
+    color: #688fdf;
+    box-shadow: 5px 5px 8px #888888;
+}
+/* icons styling */ 
+.icon{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+.row{
+    margin-bottom: 100px;
+}
+.column1{
+    width: 400px;
+    display: inline-block;
+}
+.column2{
+    width: 400px;
+    display: inline-block;
+}
