@@ -144,6 +144,10 @@ p{
     background-color: #EA8585;
 }
 
+.rgb{
+    font-size: 10px; 
+}
+
 /* button styling */
 button{
     letter-spacing: 5px;
